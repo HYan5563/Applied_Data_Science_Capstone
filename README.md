@@ -2,7 +2,7 @@
 
 ---
 
-This is a course assignment of IBM online course: Applied Data Science Capstone.
+This is a course assignment of an IBM online course: Applied Data Science Capstone.
 
 ---
 
