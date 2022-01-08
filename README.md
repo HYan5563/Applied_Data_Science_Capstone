@@ -7,6 +7,9 @@ This is a course assignment of IBM online course: Applied Data Science Capstone.
 ---
 
 1. Week1
-  - Data Collection API
-  - Data Collection with Web Scraping
+  - Part 1 Collecting the Data
+    - Data Collection API
+    - Data Collection with Web Scraping
+  - Part 2 Data Wrangling
+    - Data Wrangling0
 2. 
