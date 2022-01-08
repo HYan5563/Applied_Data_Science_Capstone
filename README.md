@@ -6,10 +6,11 @@ This is a course assignment of an IBM online course: Applied Data Science Capsto
 
 ---
 
-1. Week1
-  - Part 1 Collecting the Data
+1. Week 1
+  - Collecting the Data
     - Data Collection API
     - Data Collection with Web Scraping
-  - Part 2 Data Wrangling
-    - Data Wrangling0
-2. 
+  - Data Wrangling
+2. Week 2
+  - EDA Using SQL
+  - EDA Using Pandas and Matplotlib
